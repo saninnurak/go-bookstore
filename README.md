@@ -1,2 +1,2 @@
 # go-bookstore
-Bookstore project wwith golnd
+Bookstore project with golnd
