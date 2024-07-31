@@ -1,2 +1,2 @@
 # go-bookstore
-Bookstore project with golnd
+Bookstore project with golang
